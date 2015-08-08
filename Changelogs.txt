@@ -1,7 +1,14 @@
 Changelogs KSP Deutsch Patch
 
+Version 2.1 "Update of Awesomeness"
+- Eigene Version der KSP-Schrift (Ladebildschirm & Hauptmenü)
+- Alle Parts der Version 1.0.4 übersetzt
+- Neue Version des LanguagePatches Framework - stabiler und performanter
+- Teilweise Übersetzung der OnGUI()-UI => Settings Menü u.v.m
+- Teilweise Übersetzung SpriteText Komponenten
+
 Version 2.0
-- Update auf das LanguagePatches Framework
+- Update auf das LanguagePatches Framwork
 - Umstellung auf KSP 1.0
 - Schriftart im Ladebildschirm und im Hauptmenü ersetzt (Unicode)
 - Hover-Texte am Space Center übersetzt

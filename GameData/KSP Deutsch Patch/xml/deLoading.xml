@@ -1,9 +1,9 @@
-<de size="17">
+<de size="17" loadingText="Laden..." replaceFont="true">
 	<string>Lokalisiere Jebediah Kerman...</string>
 	<string>Erzeuge Ablation Schutzschicht...</string>
 	<string>Antworte auf die ultimative Frage...</string>
 	<string>Rekrutiere Kerbals...</string>
-	<string>Hinzufuegen mehrerer Booster...</string>
+	<string>Hinzufügen mehrerer Booster...</string>
 	<string>Kalkuliere Flugbahnen...</string>
 	<string>Erfinde lustige Ladehinweise...</string>
 	<string>Motiviere Kerbals...</string>
