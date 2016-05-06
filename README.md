@@ -1,18 +1,18 @@
-﻿# KSP-Deutsch-Patch
-German translation for Kerbal Space Program
+﻿## KSP-Deutsch-Patch
+Deutsche Übersetzung von Kerbal Space Program
 
-// Installation
-Der Patch wird installiert, indem man die Ordner "KSP Deutsch Patch" und "LanguagePatches", sowie die Datei "ModuleManager.2.6.7.dll" in den Ordner "GameData" der KSP-Installation kopiert.
+### Installation
+Der Patch wird installiert, indem man die Ordner "KSP Deutsch Patch" und "LanguagePatches" in den Ordner "GameData" der KSP-Installation kopiert.
 
-// Kompatibilität
+### Kompatibilität
 Vor einem Update des Patches immer die alte Version KOMPLETT entfernen!
-Wir können euch leider keinen Support bei Inkompatibilität mit Mods gegeben, falls ein Problem mit dem Mod auftritt. Bei einer Vanilla-Installantion den Ordner bitte beibehalten.
+Wir können euch leider keinen Support bei Inkompatibilität mit Mods gegeben, falls ein Problem mit dem Mod auftritt.
 Dieser Patch ist in Version 2.1 mit KerbalSpaceProgram 1.0.x kompatibel, andere Versionen von KerbalSpaceProgram werden nicht unterstützt!
 
-// Credits
+### Credits
 - Allan Sche Sar
-- Thomas P. Kerman
-- Jebediah Kerman
+- Thomas P.
+- Kartoffelkuchen
 - Taurec
 - KCST
 - McFlyever
@@ -21,9 +21,7 @@ Dieser Patch ist in Version 2.1 mit KerbalSpaceProgram 1.0.x kompatibel, andere 
 - Grindberg
 - simon56modder
 
-
-// Copyright / Lizenz
+### Copyright / Lizenz
 All Rights reserved © kerbalspaceprogram.de
 Das ASCII-Logo wurde mithilfe des ASCII-Art Generators von patorjk.com erstellt.
-Der Patch nutzt dem ModuleManager in Version 2.6.7 (CC share-alike), entwickelt von sarbian aus dem englischen KSP-Forum, 
-sowie das LanguagePatches Framework, entwickelt von Thomas P. Kerman und simon56modder (LGPL)
+Der Patch nutzt das LanguagePatches Framework, entwickelt von Thomas P. und simon56modder (MIT)
