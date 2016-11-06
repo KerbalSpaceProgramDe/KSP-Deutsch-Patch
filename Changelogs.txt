@@ -1,5 +1,13 @@
 Changelogs KSP Deutsch Patch
 
+Version 3.0 "Update of more Awesomeness"
+- Plugin für KSP 1.2.x umgeschrieben
+- Willkommenstexte übersetzt
+- Ergänzungen der Texte vom KSP 1.2 Update
+- Übersetzung der neuen Einstellungspunkte
+- Die KDP Flagge ist beim erstellen eines Spielstandes standardmäßig ausgewählt
+- Ein kleines EasterEgg versteckt
+
 Version 2.1 "Update of Awesomeness"
 - Eigene Version der KSP-Schrift (Ladebildschirm & Hauptmenü)
 - Alle Parts der Version 1.0.4 übersetzt

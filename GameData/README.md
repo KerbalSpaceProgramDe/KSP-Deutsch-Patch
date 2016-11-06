@@ -2,7 +2,7 @@
 Deutsche Übersetzung von Kerbal Space Program
 
 ### Installation
-Der Patch wird installiert, indem man die Ordner "KSP Deutsch Patch" und "LanguagePatches" in den Ordner "GameData" der KSP-Installation kopiert.
+Der Patch wird installiert, indem man dden Inhalt des Ordners "GameData" in den gleichnamigen KSP Ordner kopiert.
 
 ### Kompatibilität
 Vor einem Update des Patches immer die alte Version KOMPLETT entfernen!
