@@ -4,6 +4,7 @@ Version 4.0 "Everywhere Language"
 - Plugin für KSP 1.3.x umgeschrieben
 - TechTree (Technologie Baum) für den Wissenschafts- und Karrieremodus übersetze
 - Anpassung im Editor aufgrund der Änderung von SQUAD
+- Alle Mouse-over-Texte im Hauptmenü übersetzt
 - div. Bugfixes
 - Verbesserung der Performance
 
