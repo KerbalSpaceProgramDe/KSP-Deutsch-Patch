@@ -1,5 +1,12 @@
 Changelogs KSP Deutsch Patch
 
+Version 4.0 "Everywhere Language"
+- Plugin für KSP 1.3.x umgeschrieben
+- TechTree (Technologie Baum) für den Wissenschafts- und Karrieremodus übersetze
+- Anpassung im Editor aufgrund der Änderung von SQUAD
+- div. Bugfixes
+- Verbesserung der Performance
+
 Version 3.0 "Update of more Awesomeness"
 - Plugin für KSP 1.2.x umgeschrieben
 - Willkommenstexte übersetzt
